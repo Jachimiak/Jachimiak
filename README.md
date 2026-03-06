@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to my little piece of beginners programming paradise. I am a university professor in lighting and digital media design and technology for theatre and entertainment industries. I'm also a geek about all thing technologies, having started my training on the Commodore 64, thriving in Visual Basic in high school and writing my first HTML code in college. Now I write code when I can and try to learn as much as possible. 
+
+I'm currently working on learning and mastering code for a program called TouchDesign alongside Arduino code. Additionaly I am constantly working on my HTML, CSS, JS knowledge. Feel free to poke around.
 <!--
 **Jachimiak/Jachimiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
